@@ -1,0 +1,12 @@
+/*external selector*/
+html,body{
+padding:0;
+margin: 0;
+font-family: background-color:Verdana, Geneva, Tahoma, sans-serif;
+}
+Label{
+color:blue;
+font-size: larger;
+font-style: oblique;
+
+}
